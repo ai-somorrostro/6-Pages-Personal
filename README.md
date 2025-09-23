@@ -132,7 +132,7 @@ En GitHub → Settings → Pages → Source: Deploy from a branch → Branch: **
 
 **Si falla**: Settings → Actions → General → Workflow permissions → "Read and write permissions"
 
-### Para evaluar debereis abrir un pull request en esta rama.
-1. Creareis una rama con vuestro nombre
-2. añadireis un nombre.apellido.md donde dentro tendreis un link a vuestro page
+### Para evaluar debereis abrir un pull request en esta repo, creando una rama nueva.
+1. Creareis una rama con vuestro nombre.apellido
+2. añadireis un fichero markdown `nombre.apellido.md` donde dentro tendreis un link a vuestro page
 3. El mensaje del merge sera tambien el link a vuestro page
