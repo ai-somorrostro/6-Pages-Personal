@@ -22,7 +22,7 @@ cd [tu-usuario].github.io
 
 ## Paso 2: Configurar Python
 ```bash
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate  # Linux/Mac
 # venv\Scripts\activate   # Windows
 pip install mkdocs
